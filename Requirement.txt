@@ -1,0 +1,2 @@
+Node.js version: v22.18.0
+npm version: 10.9.3
