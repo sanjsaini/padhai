@@ -1,0 +1,178 @@
+{
+  "questions": [
+    {
+      "id": "easy_vocabulary_fill_1",
+      "questionNumber": 1,
+      "question": "Fill in the blank: The sky is very ___ today.",
+      "options": ["blue", "fast", "heavy"],
+      "answer": "blue",
+      "type": "single_choice"
+    },
+    {
+      "id": "easy_vocabulary_mc_1",
+      "questionNumber": 2,
+      "question": "Which word means \"happy\"?",
+      "options": ["Sad", "Joyful", "Angry", "Tired"],
+      "answer": "Joyful",
+      "type": "single_choice"
+    },
+    {
+      "id": " _grammar_fill_1",
+      "questionNumber": 3,
+      "question": "Fill in the blank: She ___ to school every day.",
+      "options": ["go", "goes", "going"],
+      "answer": "goes",
+      "type": "single_choice"
+    },
+    {
+      "id": "easy_grammar_mc_1",
+      "questionNumber": 4,
+      "question": "Choose the correct sentence:",
+      "options": ["He run fast.", "He runs fast.", "He running fast.", "He rans fast."],
+      "answer": "He runs fast.",
+      "type": "single_choice"
+    },
+    {
+      "id": "easy_punctuation_mc_1",
+      "questionNumber": 5,
+      "question": "Which sentence is punctuated correctly?",
+      "options": [
+        "I like apples oranges, and bananas.",
+        "I like apples, oranges and bananas.",
+        "I like apples, oranges, and bananas.",
+        "I like, apples, oranges and bananas."
+      ],
+      "answer": "I like apples, oranges, and bananas.",
+      "type": "single_choice"
+    },
+    {
+      "id": "easy_reading_mc_1",
+      "questionNumber": 6,
+      "question": "Short passage: \"Tom has a small dog. The dog likes to play in the park.\"\nQuestion: Where does Tom’s dog like to play?",
+      "options": ["In the house", "In the park", "In the car", "In the school"],
+      "answer": "In the park",
+      "type": "single_choice"
+    },
+    {
+      "id": "medium_vocabulary_fill_1",
+      "questionNumber": 7,
+      "question": "Fill in the blank: The scientist made an important ___ in her research.",
+      "options": ["discovery", "holiday", "friend"],
+      "answer": "discovery",
+      "type": "single_choice"
+    },
+    {
+      "id": "medium_vocabulary_mc_1",
+      "questionNumber": 8,
+      "question": "Which word is closest in meaning to \"ancient\"?",
+      "options": ["Old", "New", "Tall", "Bright"],
+      "answer": "Old",
+      "type": "single_choice"
+    },
+    {
+      "id": "medium_grammar_fill_1",
+      "questionNumber": 9,
+      "question": "Fill in the blank: If I ___ more time, I would learn Spanish.",
+      "options": ["have", "had", "having"],
+      "answer": "had",
+      "type": "single_choice"
+    },
+    {
+      "id": "medium_grammar_mc_1",
+      "questionNumber": 10,
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She don’t like pizza.",
+        "She doesn’t likes pizza.",
+        "She doesn’t like pizza.",
+        "She don’t likes pizza."
+      ],
+      "answer": "She doesn’t like pizza.",
+      "type": "single_choice"
+    },
+    {
+      "id": "medium_punctuation_mc_1",
+      "questionNumber": 11,
+      "question": "Choose the correctly punctuated sentence:",
+      "options": [
+        "\"Are you ready\" asked Maria.",
+        "\"Are you ready?\" asked Maria.",
+        "\"Are you ready\"? asked Maria.",
+        "\"Are you ready,\" asked Maria."
+      ],
+      "answer": "\"Are you ready?\" asked Maria.",
+      "type": "single_choice"
+    },
+    {
+      "id": "medium_reading_mc_1",
+      "questionNumber": 12,
+      "question": "Passage: \"The sun gives us light and heat. Plants use sunlight to grow, and animals depend on plants for food.\"\nQuestion: Why do plants need sunlight?",
+      "options": ["To stay warm", "To grow", "To sleep", "To make animals happy"],
+      "answer": "To grow",
+      "type": "single_choice"
+    },
+    {
+      "id": "hard_vocabulary_fill_1",
+      "questionNumber": 13,
+      "question": "Fill in the blank: The teacher’s explanation was so ___ that all the students understood the difficult topic.",
+      "options": ["lucid", "vague", "chaotic", "trivial"],
+      "answer": "lucid",
+      "type": "single_choice"
+    },
+    {
+      "id": "hard_vocabulary_mc_1",
+      "questionNumber": 14,
+      "question": "Which word is the opposite of \"scarce\"?",
+      "options": ["Rare", "Abundant", "Expensive", "Absent"],
+      "answer": "Abundant",
+      "type": "single_choice"
+    },
+    {
+      "id": "hard_grammar_fill_1",
+      "questionNumber": 15,
+      "question": "Fill in the blank: Neither the teacher nor the students ___ ready for the surprise test.",
+      "options": ["was", "were", "is", "be"],
+      "answer": "were",
+      "type": "single_choice"
+    },
+    {
+      "id": "hard_grammar_mc_1",
+      "questionNumber": 16,
+      "question": "Which sentence is correct?",
+      "options": [
+        "The committee have made their decision.",
+        "The committee has made its decision.",
+        "The committee has made their decision.",
+        "The committee have made it’s decision."
+      ],
+      "answer": "The committee has made its decision.",
+      "type": "single_choice"
+    },
+    {
+      "id": "hard_punctuation_mc_1",
+      "questionNumber": 17,
+      "question": "Which sentence uses the semicolon correctly?",
+      "options": [
+        "I have a meeting tomorrow; and I need to prepare my notes.",
+        "I have a meeting tomorrow; I need to prepare my notes.",
+        "I have a meeting tomorrow, I need to prepare my notes;",
+        "I have a meeting; tomorrow I need to prepare my notes,"
+      ],
+      "answer": "I have a meeting tomorrow; I need to prepare my notes.",
+      "type": "single_choice"
+    },
+    {
+      "id": "hard_reading_mc_1",
+      "questionNumber": 18,
+      "question": "Passage: \"Although whales live in the ocean, they are not fish. Whales are mammals, which means they breathe air, give birth to live young, and nurse their babies.\"\nQuestion: Why are whales considered mammals?",
+      "options": [
+        "Because they live in the ocean",
+        "Because they are very large",
+        "Because they breathe air, give birth to live young, and nurse their babies",
+        "Because they eat fish"
+      ],
+      "answer": "Because they breathe air, give birth to live young, and nurse their babies",
+      "type": "single_choice"
+    }
+  ]
+}
