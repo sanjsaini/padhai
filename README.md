@@ -8,6 +8,6 @@ To run: step to run the project
 
 
 2. backend
-- navigate to the project folder I terminal or cdm
+- navigate to the project folder in terminal or cmd
 - npm install (only once)
 - npm run dev (every time to start project)
