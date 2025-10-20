@@ -1,5 +1,5 @@
 # padhai
-#To run: step to run the project
+To run: step to run the project
 1. padh-ai
 - navigate to the project folder in terminal(mac) or cmd(window)
 - npm install (only once when do setup)
